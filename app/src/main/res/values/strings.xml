@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">CPFCONNECT</string>
+    <string name="sql">BUL</string>
+    <string name="makNoHint">Makine No</string>
+    <string name="unvantext">Ünvan</string>
+    <string name="dosyanotitle">Mak.No</string>
+    <string name="dosyanotext">Dosya No</string>
+    <string name="conntext">Bağlantı Durumu</string>
+    <string name="ariza_title">ARIZA</string>
+    <string name="islem_title">İŞLEM</string>
+    <string name="tarih">TARİH</string>
+    <string name="aciklama_title">AÇIK.</string>
+    <string name="sb_sayac_title">SB Sayaç</string>
+    <string name="sb_sayac_title_text">SB SAY</string>
+    <string name="cl_sayac_title">Renk Sayaç</string>
+    <string name="cl_sayac_title_text">RN SAY</string>
+    <string name="tek_title_text">TEKN.</string>
+    <string name="son_sbSayac_Text">S.Sb Sayaç</string>
+    <string name="son_clSayac_Text">S.Cl Sayaç</string>
+    <string name="son_sbSayac_Title">S.SB.SY</string>
+    <string name="son_clSayac_Title">S.RN.SY</string>
+    <string name="isTipiTitleText">İŞ.TİP</string>
+    <string name="rapBilTextTitle">RAPOR BİLGİLERİ</string>
+    <string name="mak_no_ara">MAK NO ARA</string>
+    <string name="servisButtonText">SERVİS</string>
+    <string name="serbildno">Dosya No</string>
+    <string name="serListmodel">Model</string>
+    <string name="serList_seri_no">Seri No</string>
+    <string name="serListSikayet">Şikayet</string>
+    <string name="serListDurumu">Durumu</string>
+    <string name="serListTarih">G.Tarih</string>
+    <string name="serListTeknis">Teknisyen</string>
+    <string name="ara">ARA</string>
+    <string name="isText">İŞ</string>
+    <string name="adetText">ADET</string>
+    <string name="ts_connect">TS CONNECT</string>
+    <string name="rapor">RAPOR</string>
+    <string name="program_ayarlari">TS PROGRAM BAĞLANTI AYARLARI</string>
+    <string name="ayar">AYAR</string>
+    <string name="cik_Text">ÇIK</string>
+    <string name="sifreText">ŞİFRE</string>
+    <string name="setupKayitText">KAYIT</string>
+    <string name="mevcutServerText">BAĞLI BULUNDUĞU SERVER</string>
+    <string name="email">EMAIL</string>
+    <string name="yetkili">Y.KİŞİ</string>
+    <string name="pdf">PDF</string>
+    <string-array name="ariza">
+        <item>ÇIKTI ALAMAMA PROBLEMİ</item>
+        <item>ÇIKTI KALİTE PROBLEMİ</item>
+        <item>DOKÜMAN BESLEYİCİ PROBLEMİ</item>
+        <item>DOKÜMAN YÖNETİM YAZILIMI KURULACAK</item>
+        <item>E-POSTA KURULUMU VE TARAMA AYARLARI</item>
+        <item>ESKİ MAKİNE İADE ALINDI</item>
+        <item>FAKS OPSİYONU PROBLEMİ</item>
+        <item>DİĞER İŞLEMLER</item>
+        <item>FIRMWARE YÜKLEMESİ YAPILACAK</item>
+        <item>HİÇ ÇALIŞMIYOR(ELEKTRİK YOK)</item>
+        <item>İKİNCİ EL MAKİNE KURULACAK</item>
+        <item>KAĞIT ALMIYOR</item>
+        <item>KAĞIT SIKIŞTIRIYOR</item>
+        <item>MAKİNE BIRAKILACAK</item>
+        <item>MAKİNE HAZIRA GEÇMİYOR</item>
+        <item>MAKİNE İADE ALINDI</item>
+        <item>MAKİNE KURULUŞ</item>
+        <item>MAKİNE NETWORKTE GÖRÜNMÜYOR</item>
+        <item>MAKİNEDE AŞIRI SES VAR</item>
+        <item>MALZEME TESLİM EDİLDİ</item>
+        <item>OPSİYON KURULUŞ</item>
+        <item>ÖDEME ALINACAK</item>
+        <item>PARÇA DEĞİŞİMİ YAPILACAK</item>
+        <item>PARÇA DEĞİŞİMİ GEREKLİ</item>
+        <item>PERİYODİK BAKIM</item>
+        <item>REVİZYON</item>
+        <item>REVİZYONU YAPILAN MAKİNE BIRAKILACAK</item>
+        <item>SAYAÇ ALINACAK</item>
+        <item>SC KOD ARIZASI VERİYOR</item>
+        <item>TARAMA KURULUMU VE ANLATIM</item>
+        <item>TESPİT VE KONTROL</item>
+    </string-array>
+
+    <string-array name="islem">
+        <item>ÇIKTI ALAMAMA PROBLEMİ GİDERİLDİ</item>
+        <item>ÇIKTI KALİTE PROBLEMİ GİDERİLDİ</item>
+        <item>DOKÜMAN BESLEYİCİ PROBLEMİ GİDERİLDİ</item>
+        <item>DOKÜMAN YÖNETİM YAZILIMI KURULDU</item>
+        <item>E-POSTA KURULUMU VE TARAMA AYARLARI YAPILDI</item>
+        <item>ESKİ MAKİNE İADE ALINDI</item>
+        <item>FAKS OPSİYONU PROBLEMİ GİDERİLDİ</item>
+        <item>DİĞER İŞLEMLER</item>
+        <item>FIRMWARE YÜKLEMESİ YAPILDI</item>
+        <item>İKİNCİ EL MAKİNE KURULDU</item>
+        <item>KAĞIT ALMAMA PROBLEMİ GİDERİLDİ</item>
+        <item>KAĞIT SIKIŞTIRMA PROBLEMİ GİDERİLDİ</item>
+        <item>MAKİNE BIRAKILDI</item>
+        <item>MAKİNE HAZIRA GEÇMEME PROBLEMİ GİDERİLDİ</item>
+        <item>MAKİNE İADE ALINDI</item>
+        <item>MAKİNE KURULUŞU YAPILDI EĞİTİM VERİLDİ</item>
+        <item>MAKİNEDEKİ AŞIRI SES PROBLEMİ GİDERİLDİ</item>
+        <item>MALZEME TESLİM EDİLDİ</item>
+        <item>NETWORKT PROBLEMİ GİDERİLDİ</item>
+        <item>OPSİYON KURULUŞU YAPILDI</item>
+        <item>ÖDEME ALINDI</item>
+        <item>PARÇA DEĞİŞİMİ YAPILDI</item>
+        <item>PERİYODİK BAKIM YAPILDI</item>
+        <item>REVİZYON YAPILAN MAKİNE TESLİM EDİLDİ</item>
+        <item>SAYAÇ ALINDI</item>
+        <item>SC KOD ARIZASI GİDERİLDİ</item>
+        <item>TARAMA KURULUMU VE ANLATIMI YAPILDI</item>
+        <item>TESPİT VE KONTROL YAPILDI</item>
+
+    </string-array>
+
+    <string-array name="teknisyen">
+        <item>AÇIK ARIZA</item>
+        <item>AHMAD NAHHAS</item>
+        <item>GÖRKEM KALENDER</item>
+        <item>HAKAN YURT</item>
+        <item>HÜSEYİN YILMAZ</item>
+        <item>LEVENT AGTAS</item>
+        <item>SERKAN ÜNVER</item>
+        <item>YİĞİTHAN AYRANCI</item>
+    </string-array>
+
+    <string-array name="is_tipi">
+        <item>DEMO</item>
+        <item>EVRAK TESLİMİ</item>
+        <item>KURULUŞ </item>
+        <item>MALZEME TESLİMİ</item>
+        <item>ÖDEME ALINDI</item>
+        <item>SAYAÇ ALINDI</item>
+        <item>SERVİS</item>
+    </string-array>
+    <string name="title_activity_imza">imza</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>
